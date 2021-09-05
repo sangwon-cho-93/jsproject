@@ -1,0 +1,5 @@
+@import "reset.css";
+.dateclock {
+  color: white;
+  font-size: 60px;
+}
